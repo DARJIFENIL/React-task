@@ -1,0 +1,11 @@
+.details{
+    display: flex;
+   
+}
+.Sliderimg{
+    width: 50%;
+}
+.DesName{
+    width: 50%;
+    /* background-color: lightblue */
+}

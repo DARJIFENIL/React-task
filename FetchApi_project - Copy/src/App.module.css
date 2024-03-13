@@ -1,0 +1,24 @@
+.BackGround{
+    background-color:pink;
+}
+
+.heading{
+    color: white;
+    margin-bottom: 30px;
+}
+
+.imagetag{
+    width: 200px;
+    height: 200px;
+    /* border-radius: 50%; */
+}
+
+.detailbox{
+    border: 2px solid black;
+    gap: 5;
+}
+
+.btnpos{
+    bottom: 5px;
+    right: 5px;
+}
